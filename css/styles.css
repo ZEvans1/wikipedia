@@ -1,0 +1,14 @@
+.col-md-7 {
+  background-color: lightgreen;
+  border-style: solid;
+  border-width: thin;
+  margin: 2px;
+}
+
+.col-md-4 {
+  background-color: lightblue;
+  border-style: solid;
+  border-width: thin;
+  margin: 2px;
+
+}
