@@ -1,7 +1,8 @@
 .col-md-7 {
-  background-color: lightgreen;
+  background-color: #f5fffa;
   border-style: solid;
   border-width: thin;
+  border-color: red;
   margin: 2px;
 }
 
@@ -9,6 +10,47 @@
   background-color: lightblue;
   border-style: solid;
   border-width: thin;
+  border-color: lightgreen;
   margin: 2px;
 
+}
+.lpanel {
+  background-color: #cef2e0;
+  margin: 1px;
+  padding: 1px;
+  font-size: 8pt;
+  border-style: solid;
+  border-color: red;
+}
+.col-md-11{
+  background-color: lavender;
+  border-style: solid;
+  border-width: thin;
+  border-color: lightgreen;
+}
+.sidebar {
+  width: 8%;
+  float: left;
+  background-color: grey;
+  height: 100%auto;
+  position: fixed;
+}
+
+#globe {
+  width: 50px;
+  height: 50px;
+}
+
+.jumbotron {
+  margin: 10px;
+  padding: 10px;
+}
+
+.jumbop {
+  font-size: smaller;
+  font-style: italic;
+}
+
+.sbapic {
+  float: left;
 }
