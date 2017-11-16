@@ -6,7 +6,7 @@
   background-color: #f5fffa;
   border-style: solid;
   border-width: thin;
-  border-color: red;
+  border-color: #cef2e0;
   margin: 2px;
 }
 
@@ -14,7 +14,7 @@
   background-color: #f5faff;
   border-style: solid;
   border-width: thin;
-  border-color: lightgreen;
+  border-color: #cedff2;
   margin: 2px;
 
 }
@@ -23,7 +23,7 @@
   background-color: #cef2e0;
   font-size: 8pt;
   border-style: solid;
-  border-color: red;
+  border-color: #a3bfb1;
   padding: 0.2em 0.4em;
 }
 
@@ -37,7 +37,7 @@
   background-color: #cedff2;
   font-size: 8pt;
   border-style: solid;
-  border-color: red;
+  border-color: #a3b0bf;
   padding: 0.2em 0.4em;
 }
 
@@ -51,7 +51,7 @@
   background-color: #ddcef2;
   font-size: 8pt;
   border-style: solid;
-  border-color: red;
+  border-color: #afa3bf;
   padding: 0.2em 0.4em;
 }
 
@@ -65,19 +65,19 @@
   background-color: #faf5ff;
   border-style: solid;
   border-width: thin;
-  border-color: lightgreen;
+  border-color: #ddcef2;
 }
 .sidebar {
-  width: 8%;
+  width: 17%;
   float: left;
-  background-color: grey;
+  background-color: #F1F1F1;
   height: 100%auto;
   position: fixed;
 }
 
 #globe {
-  width: 50px;
-  height: 50px;
+  width: 200px;
+  height: 200px;
 }
 
 .jumbotron {
@@ -107,4 +107,16 @@
 .pcredit {
   font-size: 10pt;
   text-align: center;
+}
+
+.mundi {
+  float: right;
+}
+
+.hoxne {
+  float: right;
+}
+
+.other {
+  border-bottom: 1px solid #a2a9b1;
 }
