@@ -1,3 +1,7 @@
+.toppanel p {
+  font-size: 10pt;
+}
+
 .col-md-7 {
   background-color: #f5fffa;
   border-style: solid;
@@ -7,23 +11,58 @@
 }
 
 .col-md-4 {
-  background-color: lightblue;
+  background-color: #f5faff;
   border-style: solid;
   border-width: thin;
   border-color: lightgreen;
   margin: 2px;
 
 }
+
 .lpanel {
   background-color: #cef2e0;
-  margin: 1px;
-  padding: 1px;
   font-size: 8pt;
   border-style: solid;
   border-color: red;
+  padding: 0.2em 0.4em;
 }
+
+.lpanel h2 {
+  font-size: 14pt;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+.rpanel {
+  background-color: #cedff2;
+  font-size: 8pt;
+  border-style: solid;
+  border-color: red;
+  padding: 0.2em 0.4em;
+}
+
+.rpanel h2 {
+  font-size: 14pt;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+.bottompanel {
+  background-color: #ddcef2;
+  font-size: 8pt;
+  border-style: solid;
+  border-color: red;
+  padding: 0.2em 0.4em;
+}
+
+.bottompanel h2 {
+  font-size: 14pt;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
 .col-md-11{
-  background-color: lavender;
+  background-color: #faf5ff;
   border-style: solid;
   border-width: thin;
   border-color: lightgreen;
@@ -53,4 +92,19 @@
 
 .sbapic {
   float: left;
+}
+
+.baba {
+  float: right;
+}
+
+.bat {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.pcredit {
+  font-size: 10pt;
+  text-align: center;
 }
